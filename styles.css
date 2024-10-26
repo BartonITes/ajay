@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    color: #e60000; /* Red */
+    font-size: 3em;
+}
+
+.pride-flag {
+    width: 100%;
+    max-width: 600px;
+}
+
+.poll {
+    margin-top: 20px;
+    padding: 10px;
+    border: 2px solid #e60000;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.button {
+    margin: 5px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+}
